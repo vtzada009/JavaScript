@@ -1,4 +1,4 @@
-function exemploVar () {
+function exemplolet () {
     let x = 10;
     if (true) {
         let x = 20; // nova variavel v e criada dentro do bloco
@@ -7,4 +7,4 @@ function exemploVar () {
     console.log(x); // 10 (fora do bloco)
 }
 
-exemploVar();
+exemplolet();
