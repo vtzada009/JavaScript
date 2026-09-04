@@ -6,3 +6,5 @@ function exemploVar () {
     }
     console.log(x); // 20 pois o valor foi alterado 
 }
+
+exemploVar();
