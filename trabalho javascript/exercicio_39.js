@@ -1,0 +1,4 @@
+/*
+9. (Verdadeiro ou Falso) No laço for, a expressão de incremento (ex: i++) é  executada antes do código dentro das chaves { }.  
+( ) Verdadeiro  (x) Falso 
+*/
