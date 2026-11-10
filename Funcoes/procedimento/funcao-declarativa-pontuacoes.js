@@ -8,5 +8,5 @@ function calcularPontuacaoTotal(pontuacoes) {
 
 const pontuacaoDoJogador = [10, 15, 20, 5, 8];
 
-calcularPontuacaoTotal(pontuacaoDoJogador)
+calcularPontuacaoTotal(pontuacaoDoJogador);
 
